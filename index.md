@@ -16,4 +16,4 @@
 
 ### 实验室：[俞立实验室](https://liyu-lab-tsinghua.github.io/)
 
-### 研究主题：[migrasome](/zhengjianzhao.jpg)
+### 研究主题：[migrasome](https://github.com/pkgene/pkgene.github.io/blob/master/migrasome.png)
