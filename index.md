@@ -17,4 +17,4 @@
 ### 实验室：[俞立实验室](https://liyu-lab-tsinghua.github.io/)
 
 ### 研究主题: Migrasome
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/pkgene/pkgene.github.io/blob/master/migrasome.png)
